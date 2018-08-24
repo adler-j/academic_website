@@ -235,11 +235,6 @@ enableGitInfo = false
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:jonasadl@kth.se"
-
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "https://github.com/adler-j"
     
   #[[params.social]]
   #  icon = "twitter"
@@ -255,6 +250,16 @@ enableGitInfo = false
     icon = "researchgate"
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Jonas_Adler"
+    
+  [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "https://github.com/adler-j"
+    
+  [[params.social]]
+    icon = "stack-overflow"
+    icon_pack = "fa"
+    link = "https://www.stackoverflow.com/users/4640905/jonas-adler"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -289,7 +294,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Talks"
   url = "#talks"
-  weight = 5
+  weight = 4
   
 #[[menu.main]]
 #  name = "Projects"

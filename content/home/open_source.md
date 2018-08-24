@@ -15,6 +15,14 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+ODL
+---
+Operator Discretization Library ([ODL]((https://github.com/odlgroup/odl))) is a Python library that enables research in inverse problems on realistic or real data.
+
+Minimal ML implementations
+-----------
+Some minimalistic implementations of generative models:
+
+* [VAE](https://github.com/adler-j/minimal_vae)
+* [WGAN-GP](https://github.com/adler-j/minimal_wgan)
