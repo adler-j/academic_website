@@ -10,31 +10,32 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Mathematics",
+    "Imaging",
+    "Deep Learning",
+    "Open Source"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Applied Mathematics"
+  institution = "KTH - Royal Institute of Technology"
+  year = 2019
+
+[[education.courses]]
+  course = "Msc in Applied Mathematics"
+  institution = "KTH - Royal Institute of Technology"
+  year = 2013
+
+[[education.courses]]
+  course = "BSc in Engineering Physic"
+  institution = "KTH - Royal Institute of Technology"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jonas Adler is a PhD student in Applied Mathematics working under the supervision of [Ozan Öktem](https://www.kth.se/profile/ozan). He also holds a position as Research Scientist in the Research and Physics group at Elekta, Stockholm.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Jonas does research in inverse problems, and his main contributions lie in the intersection of model-driven and data-driven methods.
