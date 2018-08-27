@@ -25,6 +25,8 @@ preview = true
 
 Instructions for installing and configuring Ubuntu 16.04 LTE on a PC with two GPUs.
 
+<!--more-->
+
 The primary GPU will be used for computations and the secondary one will be used for displaying graphics. 
 In this example, the computer is a HP Z640 with NVIDIA Titan-X Pascal as primary GPU and a NVIDIA Quadro K620 as secondary GPU.
 

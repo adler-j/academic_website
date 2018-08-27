@@ -22,6 +22,11 @@ caption = ""
 preview = true
 
 +++
+
+An introduction to some Machine Learning methods for image reconstruction.
+
+<!--more-->
+
 Suppose that you were given a blurred image:
     
 <img src="mayo_convolved.png" alt="mayo_convolved" width="300" style="margin: 0px 20px; margin-left: auto; margin-right: auto"/>

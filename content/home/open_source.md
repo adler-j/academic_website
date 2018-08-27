@@ -18,7 +18,7 @@ weight = 60
 
 ODL
 ---
-Operator Discretization Library ([ODL]((https://github.com/odlgroup/odl))) is a Python library that enables research in inverse problems on realistic or real data.
+Operator Discretization Library ([ODL](https://github.com/odlgroup/odl)) is a Python library that enables research in inverse problems on realistic or real data.
 
 Minimal ML implementations
 -----------

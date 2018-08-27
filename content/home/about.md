@@ -18,12 +18,12 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Applied Mathematics"
+  course = "PhD in Applied Mathematics (ongoing)"
   institution = "KTH - Royal Institute of Technology"
   year = 2019
 
 [[education.courses]]
-  course = "Msc in Applied Mathematics"
+  course = "MSc in Applied Mathematics"
   institution = "KTH - Royal Institute of Technology"
   year = 2013
 
