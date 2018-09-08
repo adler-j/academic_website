@@ -140,7 +140,7 @@ so the file that will be downloaded is "cuda_8.0.44_linux.run"
   
         $ sudo service lightdm start
     
-17. Shut down computer, insert secondary GPU which in this example is a Quadro K620 card.
+17. Shut down computer, insert secondary GPU which in this example is a Quadro K620 card. Keep the display connected to the primary GPU.
     
 18. Boot computer, log in.
     
