@@ -7,7 +7,7 @@ git commit -m "%~1"
 git push origin master
 
 echo "Deploying updates to GitHub..."
-./hugo
+.\hugo
 
 
 REM Push changes publicly
