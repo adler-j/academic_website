@@ -54,6 +54,8 @@ enableGitInfo = false
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
 [params]
+  customCssFile = [ "css/custom.css" ]
+
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
   color_theme = "default"
@@ -64,12 +66,11 @@ enableGitInfo = false
 
   # Your details.
   name = "Jonas Adler"
-  role = "PhD student in Applied Mathematics"
+  role = "Research Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "KTH - Royal Institute of Technology", url = "https://www.kth.se/profile/jonasadl" },
-  { name = "Elekta", url = "https://www.elekta.com/" }]
+  organizations = [{ name = "Elekta", url = "https://www.elekta.com/" }, { name = "KTH - Royal Institute of Technology", url = "https://www.kth.se/profile/jonasadl" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   # avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
