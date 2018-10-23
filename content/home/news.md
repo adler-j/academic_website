@@ -15,6 +15,8 @@ weight = 6
 
 +++
 
+**Oct 2018:** I'm presenting [_Deep Learning for Image Reconstruction_]({{< ref "2018ICMSEC.md" >}}) at the Chinese Academy of Sciences.
+
 **Sept 2018:** I'm organizing the international workshop [_Deep Learning and Inverse Problems_](https://sites.google.com/view/dlip2019) 21-25 Jan 2019 in Stockholm.
 
 **Sept 2018:** [_Banach Wasserstein GAN_]({{< ref "bwgan.md" >}}) has been accepted for publication at NIPS.
