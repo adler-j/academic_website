@@ -15,10 +15,10 @@ authors = ["Jonas Adler", "Sebastian Lunz"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv"
+publication = "NIPS"
 publication_short = ""
 
 # Abstract and optional shortened version.
