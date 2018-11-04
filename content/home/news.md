@@ -15,7 +15,7 @@ weight = 6
 
 +++
 
-**Oct 2018:** I'm visiting [Matthias Ehrhardt](https://mehrhardt.github.io/) at the University of Bath to give a seminar on _Data-driven optimization_ Tuesday, Nov 20 at 1.15 pm.
+**Oct 2018:** I'm visiting [Matthias Ehrhardt](https://mehrhardt.github.io/) at the University of Bath to give a seminar on [_Data-driven optimization_]({{< ref "2018UniBath.md" >}}) Tuesday, Nov 20 at 1.15 pm.
 
 **Oct 2018:** Our extended abstract for [_Task adapted reconstruction for inverse problems_]({{< ref "task_adapted_recon.md" >}}) has been accepted at [Medical Imaging meets NIPS](https://sites.google.com/view/med-nips-2018/home).
 

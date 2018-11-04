@@ -253,13 +253,13 @@ enableGitInfo = false
     link = "https://www.researchgate.net/profile/Jonas_Adler"
     
   [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
+    icon = "Github"
+    icon_pack = "fab fa-github fa-2x"
     link = "https://github.com/adler-j"
     
   [[params.social]]
     icon = "stack-overflow"
-    icon_pack = "fa"
+    icon_pack = "fab fa-stack-overflow fa-2x"
     link = "https://www.stackoverflow.com/users/4640905/jonas-adler"
 
   # Link to a PDF of your resume/CV from the About widget.

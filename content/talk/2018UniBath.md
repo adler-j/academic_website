@@ -1,6 +1,6 @@
 +++
 title = "Invited talk: Data-driven optimization"
-date = 2018-11-19  # Schedule page publish date.
+date = 2018-11-04  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
