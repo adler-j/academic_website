@@ -19,7 +19,7 @@ weight = 6
 
 **Oct 2018:** Our extended abstract for [_Task adapted reconstruction for inverse problems_]({{< ref "task_adapted_recon.md" >}}) has been accepted at [Medical Imaging meets NIPS](https://sites.google.com/view/med-nips-2018/home).
 
-**Oct 2018:** I'm on an extended visit to Prof Carola Schönliebs group in Cambridge and the Alan Touring Institute from 29 Oct to 23 Nov.
+**Oct 2018:** I'm on an extended visit to Prof. Carola Schönliebs group in Cambridge and the Alan Turing Institute from 29 Oct to 23 Nov.
 
 **Oct 2018:** I'm presenting [_Deep Learning for Image Reconstruction_]({{< ref "2018ICMSEC.md" >}}) at the Chinese Academy of Sciences.
 
