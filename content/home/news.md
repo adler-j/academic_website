@@ -16,15 +16,15 @@ weight = 6
 +++
 **Nov 2018:** New preprint: [_Deep Bayesian Inversion_]({{< ref "deep_bayesian.md" >}}).
 
-**Nov 2018:** I'm visiting [Matthias Ehrhardt](https://mehrhardt.github.io/) at the University of Bath to give a seminar on [_Deep Learning for Image Reconstruction_]({{< ref "2018UniBath.md" >}}) Tuesday, Nov 20 at 1.15 pm.
+**Nov 2018:** Visiting [Matthias Ehrhardt](https://mehrhardt.github.io/) at the University of Bath to give a seminar on [_Deep Learning for Image Reconstruction_]({{< ref "2018UniBath.md" >}}) Tuesday, Nov 20 at 1.15 pm.
 
 **Oct 2018:** Our extended abstract for [_Task adapted reconstruction for inverse problems_]({{< ref "task_adapted_recon.md" >}}) has been accepted at [Medical Imaging meets NIPS](https://sites.google.com/view/med-nips-2018/home).
 
-**Oct 2018:** I'm on an extended visit to Prof. Carola Schönliebs group in Cambridge and the Alan Turing Institute from 29 Oct to 23 Nov.
+**Oct 2018:** Extended visit to Prof. Carola Schönliebs group in Cambridge and the Alan Turing Institute from 29 Oct to 23 Nov.
 
-**Oct 2018:** I'm presenting [_Deep Learning for Image Reconstruction_]({{< ref "2018ICMSEC.md" >}}) at the Chinese Academy of Sciences.
+**Oct 2018:** Presenting [_Deep Learning for Image Reconstruction_]({{< ref "2018ICMSEC.md" >}}) at the Chinese Academy of Sciences.
 
-**Sept 2018:** I'm organizing the international workshop [_Deep Learning and Inverse Problems_](https://sites.google.com/view/dlip2019) 21-25 Jan 2019 in Stockholm.
+**Sept 2018:** Organizing the international workshop [_Deep Learning and Inverse Problems_](https://sites.google.com/view/dlip2019) 21-25 Jan 2019 in Stockholm.
 
 **Sept 2018:** [_Banach Wasserstein GAN_]({{< ref "bwgan.md" >}}) has been accepted for publication at NIPS .
 

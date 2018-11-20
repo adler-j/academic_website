@@ -36,6 +36,6 @@ weight = 5
 
 # Biography
 
-I'm a Research Scientist at Elekta, pursuing a PhD in Applied Mathematics working under the supervision of [Ozan Öktem](https://www.kth.se/profile/ozan).
+I'm a Research Scientist at Elekta, pursuing a PhD in Applied Mathematics under the supervision of [Ozan Öktem](https://www.kth.se/profile/ozan).
 
 I do research in inverse problems and machine learning, especially focusing on the intersection between model-driven and data-driven methods.
