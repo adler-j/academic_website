@@ -76,7 +76,7 @@ enableGitInfo = false
   organizations = [{ name = "Elekta", url = "https://www.elekta.com/" }, { name = "KTH - Royal Institute of Technology", url = "https://www.kth.se/profile/jonasadl" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  # avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "jonas_portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "jonasadl@kth.se"
   address = "Lindstedtsvägen 25, KTH Campus"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
