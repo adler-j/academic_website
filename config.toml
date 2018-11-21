@@ -67,6 +67,9 @@ enableGitInfo = false
   # Your details.
   name = "Jonas Adler"
   role = "Research Scientist"
+  
+  author = "Jonas Adler"
+  description = "Research Scientist at Elekta and PhD student in Applied Mathematics at KTH. Doing research in inverse problems and machine learning."
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
