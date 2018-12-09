@@ -14,6 +14,8 @@ subtitle = ""
 weight = 6
 
 +++
+**Dec 2018:** I'll be travelling the US east coast, giving talks at Johns Hopkins on Tuesday Dec 11, at New York University Wednesday Dec 12 and at Flatiron Institute Thursday Dec 13.
+
 **Dec 2018:** Giving an oral on MedNeurIPS on [_Task adapted reconstruction for inverse problems_]({{< ref "2018MedNeurIPS.md" >}}) Saturday, Dec 8 at 11:00.
 
 **Nov 2018:** New preprint: [_Deep Bayesian Inversion_]({{< ref "deep_bayesian.md" >}}).
