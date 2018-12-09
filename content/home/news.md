@@ -14,11 +14,13 @@ subtitle = ""
 weight = 6
 
 +++
+**Dec 2018:** Giving an oral on MedNeurIPS on [_Task adapted reconstruction for inverse problems_]({{< ref "2018MedNeurIPS.md" >}}) Saturday, Dec 8 at 11:00.
+
 **Nov 2018:** New preprint: [_Deep Bayesian Inversion_]({{< ref "deep_bayesian.md" >}}).
 
-**Nov 2018:** Visiting [Matthias Ehrhardt](https://mehrhardt.github.io/) at the University of Bath to give a seminar on [_Deep Learning for Image Reconstruction_]({{< ref "2018UniBath.md" >}}) Tuesday, Nov 20 at 1.15 pm.
+**Nov 2018:** Visiting [Matthias Ehrhardt](https://mehrhardt.github.io/) at the University of Bath to give a seminar on [_Deep Learning for Image Reconstruction_]({{< ref "2018UniBath.md" >}}) Tuesday, Nov 20 at 13:15.
 
-**Oct 2018:** Our extended abstract for [_Task adapted reconstruction for inverse problems_]({{< ref "task_adapted_recon.md" >}}) has been accepted at [Medical Imaging meets NIPS](https://sites.google.com/view/med-nips-2018/home).
+**Oct 2018:** Our extended abstract for [_Task adapted reconstruction for inverse problems_]({{< ref "task_adapted_recon.md" >}}) has been accepted at [Medical Imaging meets NIPS](https://sites.google.com/view/med-nips-2018/home). 
 
 **Oct 2018:** Extended visit to Prof. Carola Schönliebs group in Cambridge and the Alan Turing Institute from 29 Oct to 23 Nov.
 
