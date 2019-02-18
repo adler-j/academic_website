@@ -14,6 +14,12 @@ subtitle = ""
 weight = 6
 
 +++
+**Feb 2019:** Giving an invited talk at GAMM on [Deep learning for inverse problems]({{< ref "2019GAMM.md" >}}).
+
+**Feb 2019:** Giving an invited talk at BASP: [Deep Posterior Sampling]({{< ref "2019BASP.md" >}}).
+
+**Jan 2019:** Organising DLIP and giving a talk on [Deep Bayesian Inversion]({{< ref "2019DLIP.md" >}}).
+
 **Dec 2018:** I'll be travelling the US east coast, giving talks at Johns Hopkins on Tuesday Dec 11, at [New York University Wednesday Dec 12]({{< ref "2018NYU.md" >}}) and at Flatiron Institute Thursday Dec 13.
 
 **Dec 2018:** Giving an oral on MedNeurIPS on [_Task adapted reconstruction for inverse problems_]({{< ref "2018MedNeurIPS.md" >}}) Saturday, Dec 8 at 11:00.
