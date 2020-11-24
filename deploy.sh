@@ -1,7 +1,7 @@
 echo "Commiting changes..."
 
 echo "Deploying updates to GitHub..."
-.\hugo
+hugo
 
 cd public
 git add -A
