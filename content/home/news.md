@@ -14,7 +14,7 @@ subtitle = ""
 weight = 6
 
 +++
-**Feb 2019:** Giving an invited talk at GAMM on [Deep learning for inverse problems]({{< ref "2019GAMM.md" >}}).
+**Jun 2019:** I'm joining the Science team at DeepMind.
 
 **Feb 2019:** Giving an invited talk at BASP: [Deep Posterior Sampling]({{< ref "2019BASP.md" >}}).
 

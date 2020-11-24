@@ -67,16 +67,16 @@ enableGitInfo = false
   role = "Research Scientist"
   
   author = "Jonas Adler"
-  description = "Research Scientist at Elekta and PhD student in Applied Mathematics at KTH. Doing research in inverse problems and machine learning."
+  description = "Research Scientist at DeepMind. Doing research in scientific machine learning."
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [{ name = "Elekta", url = "https://www.elekta.com/" }, { name = "KTH - Royal Institute of Technology", url = "https://www.kth.se/profile/jonasadl" }]
+  organizations = [{ name = "DeepMind", url = "https://www.deepmind.com/" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "jonas_portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "jonasadl@kth.se"
-  address = "Lindstedtsvägen 25, KTH Campus"
+  email = "jonasadler@google.com"
+  # address = "Lindstedtsvägen 25, KTH Campus"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   # phone = "888 888 88 88"
   # skype = "echo123"
@@ -265,10 +265,10 @@ enableGitInfo = false
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  [[params.social]]
-    icon = "cv"
-    icon_pack = "ai"
-    link = "files/cv.pdf"
+  # [[params.social]]
+  #   icon = "cv"
+  #   icon_pack = "ai"
+  #   link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
