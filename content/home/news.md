@@ -14,6 +14,8 @@ subtitle = ""
 weight = 6
 
 +++
+**Nov 2020:** Extremely proud to have contributed to [AlphaFold](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology), recognized as a solution to the 50 year old protein folding problem at [CASP14](https://predictioncenter.org/casp14/index.cgi).
+
 **Jun 2019:** I'm joining the Science team at DeepMind.
 
 **Feb 2019:** Giving an invited talk at BASP: [Deep Posterior Sampling]({{< ref "2019BASP.md" >}}).

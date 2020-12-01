@@ -5,11 +5,11 @@ hugo
 
 cd public
 git add -A
-git commit -m "%~1"
+git commit -m "$1"
 git push origin master
 
 cd ..
 
 git add -A
-git commit -m "%~1"
+git commit -m "$1"
 git push origin master
