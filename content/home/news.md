@@ -14,7 +14,7 @@ subtitle = ""
 weight = 6
 
 +++
-**Nov 2020:** Extremely proud to have worked on [AlphaFold](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology), recognized as a solution to the 50 year old protein folding problem at [CASP14](https://predictioncenter.org/casp14/index.cgi).
+**Nov 2020:** We have announced the new version of AlphaFold at CASP14.
 
 **Jun 2019:** I'm joining the Science team at DeepMind.
 
