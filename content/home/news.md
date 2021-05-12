@@ -14,6 +14,8 @@ subtitle = ""
 weight = 6
 
 +++
+**May 2020:** New pre-print out: [Accelerated Forward-Backward Optimization using Deep Learning]({{< ref "accelerated_fb.md" >}}).
+
 **Nov 2020:** We have announced the new version of AlphaFold at CASP14.
 
 **Jun 2019:** I'm joining the Science team at DeepMind.
