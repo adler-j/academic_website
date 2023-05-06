@@ -39,4 +39,4 @@ weight = 5
 I'm a Senior Research Scientist at Google DeepMind in the [science team](https://deepmind.com/about/science).
 Before that I was a Research Scientist at Elekta and pursued a PhD in Applied Mathematics under the supervision of [Ozan Öktem](https://www.kth.se/profile/ozan).
 
-At DeepMind I work on scientific machine learning, especially focusing on inverse problems and the intersection between model-driven and data-driven methods. Among other things I've worked on [AlphaFold](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology), recongnized as a solution to the protein folding problem at [CASP14](https://predictioncenter.org/casp14/index.cgi).
+At DeepMind I work on scientific machine learning, especially focusing on inverse problems and the intersection between model-driven and data-driven methods. Among other things I've worked on [AlphaFold](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology), recognized as a solution to the protein folding problem at [CASP14](https://predictioncenter.org/casp14/index.cgi).
